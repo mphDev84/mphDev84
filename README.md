@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mphDev84
-- 👀 I’m interested in coding! And maybe Cybersecurity...
+- 👀 I’m interested in Coding! 
 - 🌱 I’m currently learning Java, Responsive Web Desgin (HTML5/CSS/JS). 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - via email or DM! 
