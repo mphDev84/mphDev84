@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mphDev84
 - 👀 I’m interested in Coding! 
-- 🌱 I’m currently learning Java, Responsive Web Desgin (HTML5/CSS/JS). 
+- 🌱 I’m currently learning Java, Responsive Web Design (HTML5/CSS/JS). 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - via email - howelsMatthew@gmail.com
 
