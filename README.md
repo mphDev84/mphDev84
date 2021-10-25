@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Matt.
-### 👀 I’m loving coding and am currently learning Java programming and Responsive Web Design (HTML/CSS/JS). 
+### 👀 I’m loving coding and currently learning Java programming and Responsive Web Design (HTML/CSS/JS). 
 ###
 
 - 📫 How to reach me - via email - howelsMatthew@gmail.com
