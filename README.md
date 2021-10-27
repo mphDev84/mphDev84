@@ -1,4 +1,4 @@
-[![Header](https://github.com/mphDev84/mphDev84/blob/b7bae9707bbfa4825b476d12440c6cb2a701a402/readme_header.png "Header")](https://some-url.dev/)
+
 
 ### 👋 Hi, I’m Matt.
 ### 👀 I’m loving coding and currently learning Java programming and Responsive Web Design (HTML/CSS/JS). 
