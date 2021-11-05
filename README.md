@@ -1,7 +1,7 @@
 [![Header](https://github.com/mphDev84/mphDev84/blob/95045ba48a0a0184411afeb1ad4bcc4e076de01d/readme_header3.png "Header")](https://some-url.dev/)
 
 ### 👋 Hi, I’m Matt.
-### 👀 I’m loving coding and currently learning Java programming and Responsive Web Design (HTML/CSS/JS). 
+### 👀 I’m loving coding and currently learning Java programming and Responsive Web Design (HTML/CSS/JS). Take a look at my Personal Portfolio page below!
 ###
 
 - Here's a link to my FreeCodeCamp Responsive Web Design Certificate!
