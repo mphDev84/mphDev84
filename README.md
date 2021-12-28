@@ -7,7 +7,7 @@
 - Here's a link to my FreeCodeCamp Responsive Web Design Certificate!
 - https://www.freecodecamp.org/certification/fccbe5ffc5d-8c0b-4436-8466-3dfedf04530b/responsive-web-design
 - Personal Portfolio Web Page:
-- https://codepen.io/mphDev84/full/XWaapvE
+https://mphdev84.github.io/
 
 - 📫 How to reach me - via email - howelsMatthew@gmail.com
 
