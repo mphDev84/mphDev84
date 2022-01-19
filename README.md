@@ -4,8 +4,6 @@
 ### 👀 I’m currently learning Java, Javascript and HTML5/CSS. Take a look at my Personal Portfolio page below!
 ###
 
-- Here's a link to my FreeCodeCamp Responsive Web Design Certificate!
-- https://www.freecodecamp.org/certification/fccbe5ffc5d-8c0b-4436-8466-3dfedf04530b/responsive-web-design
 - Personal Portfolio Web Page:
 https://mphdev84.github.io/
 
