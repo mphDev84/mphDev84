@@ -4,7 +4,7 @@
 ### 👀 I’m currently learning Java, Javascript and HTML5/CSS. Take a look at my Personal Portfolio page below!
 ###
 
-- Personal Portfolio Web Page:
+- Personal Portfolio:
 https://mphdev84.github.io/
 
 - 📫 How to reach me - via email - howelsMatthew@gmail.com
